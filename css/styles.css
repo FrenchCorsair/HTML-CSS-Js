@@ -1,8 +1,34 @@
-h1
-{
-    color: blueviolet;
-}
 p
 {
-    font-size: 1.5;
+    font-size: 1.5em;
+}
+
+#wraper
+{
+	display: flex;
+	flex-direction: row;
+    margin:5px;
+	padding: 5px;
+ 
+}
+#titre
+{
+    font-size: 3em;
+    color:darkblue;
+    text-align: center;
+    border: 2px solid black;
+    width: 50%;
+    height: 100px;
+}
+#gauche
+{
+    background-color: aqua;
+    width: 25%;
+
+}
+#droite
+{
+    background-color: aqua;
+    width: 25%;
+
 }
