@@ -3,15 +3,13 @@ p
     font-size: 1.5em;
 }
 
-#wraper
+.wraper
 {
 	display: flex;
 	flex-direction: row;
-    margin:5px;
-	padding: 5px;
  
 }
-#titre
+.bouton
 {
     font-size: 3em;
     color:darkblue;
@@ -20,15 +18,22 @@ p
     width: 50%;
     height: 100px;
 }
-#gauche
+.gauche
 {
     background-color: aqua;
     width: 25%;
 
 }
-#droite
+.droite
 {
     background-color: aqua;
     width: 25%;
 
+}
+.espace
+{
+    display: flex;
+	flex-direction: row;
+    width: 100%;
+    height: 50px;
 }
