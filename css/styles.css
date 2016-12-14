@@ -11,7 +11,33 @@ p
 
  
 }
-#bouton
+#bouton1
+{
+    font-size: 3em;
+    color: black;
+    background-color: #C39DD5;
+    text-align: center;
+    padding: 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 50%;
+    max-width: 400px;
+    max-height: 100px;
+}
+#bouton2
+{
+    font-size: 3em;
+    color: black;
+    background-color: #C39DD5;
+    text-align: center;
+    padding: 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 50%;
+    max-width: 400px;
+    max-height: 100px;
+}
+#bouton3
 {
     font-size: 3em;
     color: black;
