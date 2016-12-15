@@ -7,7 +7,7 @@ $(function() {
       $(this).css("background-color","#C39DD5");
     }); 
   $("#bouton1").click(function(){
-      $(this).html("Et voilà!").css("background-color","#FE0A24");
+      $(this).html("<audio src='toc.mp3' autoplay></audio>Et voilà!").css("background-color","#FE0A24");
       $("#bouton2").show("#bouton2");
     }); 
   $("#bouton2").mouseenter(function(){
