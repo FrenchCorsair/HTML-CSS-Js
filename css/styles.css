@@ -14,6 +14,7 @@ p
 #bouton1
 {
     font-size: 3em;
+    font-family: Tahoma,Verdana;
     color: black;
     background-color: #C39DD5;
     text-align: center;
@@ -27,6 +28,7 @@ p
 #bouton2
 {
     font-size: 3em;
+    font-family: Tahoma,Verdana;
     color: black;
     background-color: #C39DD5;
     text-align: center;
@@ -36,10 +38,12 @@ p
     width: 50%;
     max-width: 400px;
     max-height: 100px;
+    display:none;
 }
 #bouton3
 {
     font-size: 3em;
+    font-family: Tahoma,Verdana;
     color: black;
     background-color: #C39DD5;
     text-align: center;
@@ -49,6 +53,7 @@ p
     width: 50%;
     max-width: 400px;
     max-height: 100px;
+    display:none;
 }
 .gauche
 {
