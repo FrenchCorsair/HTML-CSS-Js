@@ -1,3 +1,7 @@
+body
+{
+    background-color: grey;
+}
 p
 {
     font-size: 1.5em;
@@ -54,7 +58,25 @@ p
     max-width: 400px;
     max-height: 100px;
     display:none;
+    
 }
+#bouton4
+{
+    font-size: 3em;
+    font-family: Tahoma,Verdana;
+    color: black;
+    background-color: #C39DD5;
+    text-align: center;
+    padding: 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 50%;
+    max-width: 400px;
+    max-height: 100px;
+    display:none;
+    
+}
+
 .gauche
 {
     width: auto;
